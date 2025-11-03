@@ -15,7 +15,7 @@ const updateTask = (req, res)=>{
 }
 
 const deleteTask = (req, res)=>{
-    res.send('Delete a task')
+    res.send('Delete a task') 
 }
 
 
